@@ -25,7 +25,7 @@ Fast Learn 把 AI Agent 变成自适应私人老师：先搭建能力地图，�
 克隆仓库：
 
 ```bash
-git clone https://github.com/Perry-ZHENG/A-skill-for-human-fast-learning.git
+git clone https://github.com/Perry-ZHENG/A-skill-for-human-fast-learning.git fast-learn
 cd fast-learn
 ```
 

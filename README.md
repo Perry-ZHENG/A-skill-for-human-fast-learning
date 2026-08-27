@@ -25,7 +25,7 @@ Fast Learn turns an AI agent into an adaptive private teacher. It builds a profi
 Clone the repository:
 
 ```bash
-git clone https://github.com/Perry-ZHENG/A-skill-for-human-fast-learning.git
+git clone https://github.com/Perry-ZHENG/A-skill-for-human-fast-learning.git fast-learn
 cd fast-learn
 ```
 
