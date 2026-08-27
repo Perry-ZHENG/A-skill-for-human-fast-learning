@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fast Learn"
+  short_description: "通过80/20学习地图、单题诊断与模块测验快速掌握新主题"
+  default_prompt: "Use $fast-learn to help me rapidly learn a topic through a focused map, practice, and assessment."
